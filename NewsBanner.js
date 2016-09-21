@@ -11,6 +11,7 @@ var news_Table = [
     "<u><sup>08,13,16</sup></u>&nbsp;Final Revisions, checking all source code.",
     "<u><sup>08,14,16</sup></u>&nbsp;Version 3! new linking script!",
     "<u><sup>08,19,16</sup></u>&nbsp;Working on a demo section",
+    "<u><sub>09,20,16</sup></u>&nbsp;Learning more Linux commands!",
 ]
 var link_Table = [
         "https://lebanon.instructure.com/login/ldap",
